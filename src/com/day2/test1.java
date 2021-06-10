@@ -10,6 +10,11 @@ public class test1 {
         * sprint = 阶段
         * idea->GIT
         * 先pull再push，解决冲突*/
+
+        /*1mysql
+        2.prototype tool
+        3.powerdesigner
+        * */
     }
 
 }
