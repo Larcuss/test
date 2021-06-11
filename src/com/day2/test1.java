@@ -11,10 +11,12 @@ public class test1 {
         * idea->GIT
         * 先pull再push，解决冲突*/
 
-        /*1mysql
+        /*1mysql sql练习-WIKI X18
         2.prototype tool
         3.powerdesigner
         * */
+
+        /*springboot */
     }
 
 }
